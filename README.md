@@ -8,7 +8,7 @@
  ---
 <div align="left">
   
-**☁️ 9roomthon Training Full-Stack developer ☁️** <sub>(2023.11.10~)</sub>
+<sub>**☁️ 9roomthon Training Full-Stack developer ☁️**</sub> <sub><sub>(2023.11.10~)</sub></sub>
 
  <br>
 
