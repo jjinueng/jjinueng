@@ -38,3 +38,16 @@
 <br>
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<br>
+<br>
+<br><br><br>
+
+---
+
+<br>
+
+<div align="center>
+
+&nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjinueng)](https://solved.ac/jjinueng/)
+&nbsp; [![solved.ac](https://solvedac.junah.dev/v1/generate_badge?handle=jjinueng)](https://solved.ac/profile/jjinueng/arena)
+
