@@ -40,7 +40,3 @@
 <br /><br /><br />
 
 ---
-
-<br>
-
-&nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjinueng)](https://solved.ac/jjinueng/)
