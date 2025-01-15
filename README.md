@@ -10,7 +10,8 @@
 
 <div align="left">
   
-<sub>**☁️ 9roomthon Training Full-Stack developer ☁️**</sub> <sub><sub>(2023.11.10~2024.02.29)</sub></sub>
+<sub>**☁️ 9roomthon Training Full-Stack developer ☁️**</sub> <sub><sub>(2023.11.10 ~ 2024.02.29)</sub></sub> <br />
+<sub>**☀️ Heliosen Internship ☀️**</sub> <sub><sub>(2024.07.22 ~ 2025.02.28)</sub></sub>
 
  <br>
  <br>
