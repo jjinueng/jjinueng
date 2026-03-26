@@ -67,5 +67,3 @@
 [![Blog](https://img.shields.io/badge/✍️_Blog-jjinueng.tistory.com-FFD644?style=for-the-badge&labelColor=060C1A&logoColor=black)](https://jjinueng.tistory.com)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060C1A,50:0D2B4F,100:060C1A&height=120&section=footer" />
