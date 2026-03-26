@@ -1,9 +1,4 @@
-<!-- header -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060C1A,50:0D2B4F,100:060C1A&height=180&section=header&text=jjinueng&fontSize=60&fontColor=00C8FF&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer&descSize=16&descAlignY=68&descColor=6AB8D4" />
-
-<img src="https://readme-typing-svg.demolab.com?font=monospace&size=13&duration=3000&pause=800&color=00C8FF&background=00000000&center=true&vCenter=true&width=480&lines=TypeScript+%26+Spring+Developer;UI%EB%8F%84+%EC%BD%94%EB%93%9C%EB%8F%84+%EC%98%88%EC%81%98%EA%B2%8C+%3A)" alt="Typing SVG" />
 
 <br/>
 
@@ -15,29 +10,15 @@
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                      ABOUT  ME                           ║
-╚══════════════════════════════════════════════════════════╝
-```
+## 🕹️ About Me
 
-```yaml
-name     : 김지윤 (jjinueng)
-role     : Full-Stack Developer
-focus    : 예쁜 코드 + 유려한 UI + 확장성 있는 설계
-timeline :
-  - 2023.11 ~ 2024.02  # 9roomthon Training Full-Stack
-  - 2024.07 ~ 2025.02  # GIS Company Internship
-  - 2025.03 ~ present  # GIS Company Full-Stack Developer
-```
+- ☁️ **9roomthon** Training Full-Stack Developer `2023.11 ~ 2024.02`
+- 🌍 **GIS Company** Internship `2024.07 ~ 2025.02`
+- 🚀 **GIS Company** Full-Stack Developer `2025.03 ~ ing`
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                     TECH  STACK                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+## 🛠 Tech Stack
 
 **Frontend**
 
@@ -63,11 +44,7 @@ timeline :
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                    GITHUB  STATS                         ║
-╚══════════════════════════════════════════════════════════╝
-```
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -82,33 +59,12 @@ timeline :
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                  CURRENTLY  LOADING...                   ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-```
-[ ████████████░░░ ]  Spring Security + JWT 인증
-[ ██████░░░░░░░░░ ]  Docker / GitHub Actions CI/CD
-[ █████████░░░░░░ ]  클린 아키텍처 + 테스트 중심 설계
-```
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                       CONTACT                            ║
-╚══════════════════════════════════════════════════════════╝
-```
+## 🔗 Contact
 
 <div align="center">
 
-| | |
-|:---:|:---|
-| 📁 | [**jjinueng.github.io**](https://jjinueng.github.io) |
-| ✍️ | [**jjinueng.tistory.com**](https://jjinueng.tistory.com) |
-| 📘 | [**solved.ac/jjinueng**](https://solved.ac/jjinueng) |
+[![Portfolio](https://img.shields.io/badge/📁_Portfolio-jjinueng.github.io-00C8FF?style=for-the-badge&labelColor=060C1A)](https://jjinueng.github.io)
+[![Blog](https://img.shields.io/badge/✍️_Blog-jjinueng.tistory.com-FFD644?style=for-the-badge&labelColor=060C1A&logoColor=black)](https://jjinueng.tistory.com)
 
 </div>
 
